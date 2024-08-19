@@ -1,10 +1,10 @@
 <h1 align="center">CaloriePro</h1>
 
-<p align="justify">
+<p align="center">
   <img src="https://drive.google.com/uc?id=1aiMRErolU3trKKLfGcYB0ZEL1kD4T5qo" alt="CaloriePro" width="300" style="border-radius: 15px;">
 </p>
 
-<p align="center">CaloriePro is a sleek and user-friendly iOS application designed to help you track your daily calorie intake. With its organized and intuitive interface, CaloriePro allows users to set daily calorie targets, log their meals, and monitor their progress.</p>
+<p align="justify">CaloriePro is a sleek and user-friendly iOS application designed to help you track your daily calorie intake. With its organized and intuitive interface, CaloriePro allows users to set daily calorie targets, log their meals, and monitor their progress.</p>
 
 ---
 
