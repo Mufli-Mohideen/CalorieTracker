@@ -1,6 +1,6 @@
 <h1 align="center">CaloriePro</h1>
 
-<p align="center">
+<p align="justify">
   <img src="https://drive.google.com/uc?id=1aiMRErolU3trKKLfGcYB0ZEL1kD4T5qo" alt="CaloriePro" width="300" style="border-radius: 15px;">
 </p>
 
